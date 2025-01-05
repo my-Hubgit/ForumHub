@@ -103,7 +103,7 @@ forumhub.sql
 
 
 
-usuario.sql
+usuarios.sql
 
 | id | senha | login |
 
