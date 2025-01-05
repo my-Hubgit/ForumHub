@@ -1,0 +1,1 @@
+alter table forumhub.forumhub add resposta varchar(255) not null;
