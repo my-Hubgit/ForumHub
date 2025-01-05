@@ -94,7 +94,7 @@ Swagger UI: Para documentação interativa da API.
 JPA/Hibernate: Para persistência dos dados (banco de dados).
 JWT: Para autenticação baseada em token.
 
-## As dabelas do banco de dados.
+## As Tabelas do banco de dados.
 As tabelas criadas para este projeto, foram exportadas tabelas_forumhub..
 São elas: 
 forumhub.sql 
